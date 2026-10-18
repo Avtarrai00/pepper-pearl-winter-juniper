@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Avtar — Developer & AI Enthusiast",
+      "hasCanvas": false,
+      "bodyTextLen": 5041,
+      "bodyTextHash": "ff2a4909a53411d78ecac1c1e1162ebfb9054a1110d333740365269c7d9f44ec",
+      "bodyTextPrefix": "Skip to content AVTAR Home About Projects AI Lab Journey Contact",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Avtar — Developer & AI Enthusiast",
+      "hasCanvas": false,
+      "bodyTextLen": 4984,
+      "bodyTextHash": "5e7adda4c2414cdfd9720adf0b5b3eb5fc104df6f0f1225b2576aae73dda4d17",
+      "bodyTextPrefix": "Skip to content AVTAR INDEPENDENT DEVELOPER · AI ENTHUSIAST Expl",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
